@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @arghya-align-pix-design /cosmic
 - 👀 I’m interested in Front-end development, UI/UX designing, Animation, Data Science.
-- 🌱 I’m currently learning Node js (Road to React)
+- 🌱 I’m currently learning Node js (Road to React)(OLD)
+- 🌱 I’m currently learning TypeScript and Next.js to build scalable full-stack applications 🚀
 - 💞️ I’m looking to collaborate on Open Source Contributions(complete beginner here). 
 - 📫 How to reach me - gmail- arghyadippaul09100@gmail.com
 
